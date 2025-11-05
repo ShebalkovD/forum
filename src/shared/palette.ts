@@ -5,4 +5,6 @@ export const PALETTE = {
   textLight: '#8597AD',
   primary: '#224A7C',
   secondary: '#CDD7E4',
+
+  shadow: 'box-shadow: 0px 8px 16px rgba(13, 29, 48, 0.05)',
 };
